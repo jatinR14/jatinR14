@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently learning full-stack development & core concepts
+I’m currently learning Data Analysis Concepts, full-stack development & other core concepts
 <!--
 **jatinR14/jatinR14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
